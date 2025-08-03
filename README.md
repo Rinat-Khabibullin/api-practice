@@ -1,1 +1,1 @@
-# api-practice
+"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OGYzYzg0NWVmZjZlMWIwMGQyODAyYiIsInVzZXJuYW1lIjoicmluYXRraGFiaWJ1bGxpbjEzMDMiLCJleHAiOjE3NTk0MDE3NjksImlhdCI6MTc1NDIxNzc2OX0.ilert9EfMJdy9yrlPsc7VmzPlP_FHnbaAcYaJMQKiGk"
